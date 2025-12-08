@@ -1,4 +1,4 @@
-﻿name,slottime_GMT,slottype,slotavg,pointTitle,Date,Chilled Water (Tons),Steam (lbs/hr),Electric (kW),
+﻿name,slottime_GMT,slottype,slotavg,pointTitle,Date,Chilled Water (tons),Steam (lbs/hr),Electric (kW),
 PhysicalSciences.CW.FP/TONS,2024-01-02 00:00:00,D,64.709616666,Chilled Water,2024-01-02,64.709616666,2079.728062500,548.8104167,<- from clark hall data
 PhysicalSciences.STM.M22-V/AverageMassFlow,2024-01-02 00:00:00,D,2079.728062500,Steam,2024-01-03,66.232990000,1909.234020833,563.1614583,
 PhysicalSciences.CW.FP/TONS,2024-01-03 00:00:00,D,66.232990000,Chilled Water,2024-01-04,69.240537500,2041.344375000,572.4729167,
