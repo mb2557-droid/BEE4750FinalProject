@@ -1,4 +1,4 @@
-﻿name,slottime_GMT,slottype,slotavg,pointTitle,Date,Chilled Water (Tons),Electric (kW),Steam (lbs/hr)
+﻿name,slottime_GMT,slottype,slotavg,pointTitle,Date,Chilled Water (tons),Electric (kW),Steam (lbs/hr)
 UrisLibrary.CW.FP/TONS,2024-01-02 00:00:00,D,4.018492187,Chilled Water,2024-01-02,4.018492187,72.312500000,780.948678125
 UrisLibrary.Elec.PowerScout3/kWsystem,2024-01-02 00:00:00,D,72.312500000,Electric,2024-01-03,3.944103541,79.457291666,722.793889583
 UrisLibrary.STM.M22-V/AverageMassFlow,2024-01-02 00:00:00,D,780.948678125,Steam,2024-01-04,4.243463541,79.575000000,754.672627083
